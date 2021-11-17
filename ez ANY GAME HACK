@@ -1,0 +1,1 @@
+wait(5) game.Players.LocalPlayer:Kick("You have been permanently banned.") wait(15) game:Shutdown() 
