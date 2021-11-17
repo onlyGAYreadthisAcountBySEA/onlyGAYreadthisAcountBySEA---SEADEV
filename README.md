@@ -1,0 +1,2 @@
+# onlyGAYreadthisAcountBySEA---SEADEV
+loadSrcipt
