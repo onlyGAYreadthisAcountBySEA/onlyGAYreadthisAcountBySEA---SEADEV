@@ -1,2 +1,2 @@
 # onlyGAYreadthisAcountBySEA---SEADEV
-loadSrcipt
+notthing Here Dump. go back way did you come
