@@ -1,3 +1,4 @@
+--this lua launguage
 _G.suckingMyDick = true
 if _G.suckingMyDick then
   for i = 1,600,1 do wait(1)
