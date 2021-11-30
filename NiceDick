@@ -1,0 +1,7 @@
+_G.suckingMyDick = true
+if _G.suckingMyDick then
+  for i = 1,600,1 do wait(1)
+    print("Your gf has sucked my Dick")
+  end 
+end
+print("She's so hot")
