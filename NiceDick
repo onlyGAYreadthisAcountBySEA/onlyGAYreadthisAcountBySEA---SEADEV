@@ -1,4 +1,5 @@
 --this lua launguage
+--Discord  :  https://discord.gg/M3b4BsQJGU  
 _G.suckingMyDick = true
 if _G.suckingMyDick then
   for i = 1,600,1 do wait(1)
